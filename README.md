@@ -1,5 +1,7 @@
 # Hide Discord Game Status (Selective)
 
+[GreasyFork.org](https://greasyfork.org/scripts/534197-hide-discord-game-status-selective)
+
 This userscript hides the **game-playing status** of Discord users - **but only if you’ve closed DMs with them**.<br>
 It's a simple way to declutter Discord’s interface and reduce mental noise. If someone’s game status matters to you, just open your DMs with them and it will be shown again, person by person, intentionally.
 
@@ -24,7 +26,7 @@ This script keeps your Discord cleaner - **without blocking or muting friends.**
 ## Installation
 
 1. Install a userscript manager like [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Install the script from [GreasyFork.org](https://google.com)
+2. Install the script from [GreasyFork.org](https://greasyfork.org/scripts/534197-hide-discord-game-status-selective).
 
 ## License
 
